@@ -1,2 +1,3 @@
 # no_aim
-No Aim for Controllers RedM
+Made With Heart by Shepard#1395(AltitudeDev https://discord.gg/XrYrW6ZB) and Blue青い#1111 (Syn Scripts : https://discord.gg/GjGFEaZZ)
+Disable AIM ASSIT CONTROLLER from your server RedM with simply native
